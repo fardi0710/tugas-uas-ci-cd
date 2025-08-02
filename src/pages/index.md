@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussa'adah
-image: /img/tasakuran.jpg
-heading: SMK Daarussa'adah Tangerang
-subheading: Berkarakter, Berprestasi dan Berpesantren
+title: Official Es Tebu Ceria
+image: /img/estebu.jpg
+heading: Es Tebu Ceria
+subheading: Sehat, Murah dan Bahagia
 about:
-  heading: Siapa Kami
-  description: Kami adalah lembaga pendidikan vokasi SMK Daarussa'adah yang
-    berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
-    bersaing di dunia industri dan bisnis.
+  heading: Pengen Tahu Banget ?
+  description: Secara perlahan kami berusaha untuk terus bertahan di dunia niaga
+              namun dengan usaha dan doa kami bisa bertahan sesuai dengan motto kami
+              Sehat Murah dan Bahagia.
   image:
-    image: /img/penyerahan-piagam.jpg
+    image: /img/background.jpg
     alt: Para siswa SMK Daarussa'adah kegiatan kelas industri
   button:
     url: /about

@@ -7,21 +7,21 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/perpustakaan.jpg
+  image: /img/background.jpg
 office:
-  tagline: Plang SMK Daarussaadah
-  location: Pasar Kemis Kota Tangerang
+  tagline: Super Segar Sehat 
+  location: Tangerang
   address: |-
-    SMK Daarussaadah
+    Es Tebu Ceria
 
     Kota
 
     Tangerang
   phone: |-
-    Email: info@smk-daarussaadah.sch.id
+    www.estebuceria.my.id
 
-    Phone: 0853000000
+    Phone: 0838-7127-9625
 
-    Senin s.d Sabtu 08.00 -14.00 Wib.
-  image: /img/smk-daarussaadah.jpg
+    Senin s.d Sabtu 07.00 -17.00 Wib.
+  image: /img/estebu.jpg
 ---

@@ -20,14 +20,15 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Daarussaadah</span>
+                  <span className="text-gray-800 font-semibold">Es Tebu</span>
+                  <span className="text-green-400"> Ceria</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
-                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
+                Es Tebu merupakan gula asli yang natural dan sehat untuk
+                kesehatan, maka segerakanlah mengkonsumsi 
+                Es Tebu yang segar dan menyehatkan ini.
               </p>
             </div>
           </div>
@@ -42,19 +43,19 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Daarussaadah
+                  Produksi Home Made
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Komunitas
+                  Dijamin halal
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Karir
+                  Wilayah
                 </Link>
               </div>
 
@@ -84,7 +85,7 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Kerjasama
+                  Area Jualan
                 </h3>
                 <a
                   href="https://www.aretanet.com/"
@@ -92,7 +93,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  PT. Aretanet Indonesia
+                  Kecamatan Kelapa Dua
                 </a>
                 <a
                   href="https://www.aretacollege.com/"
@@ -100,7 +101,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Areta Informatics College
+                  Kecamatan Curug
                 </a>
                 <a
                   href="https://facebook.com/smk-daarussaadah"
@@ -108,7 +109,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Fan Page
+                  Gading Serpong
                 </a>
               </div>
 
@@ -117,10 +118,10 @@ const Footer = () => {
                   Kontak
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +62 85300000
+                  +62 838-7127-9625
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smk-daarussaadah.sch.id
+                  Estebuceria.my.id
                 </span>
               </div>
             </div>
@@ -131,7 +132,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Daarussaadah 2025 - All rights reserved
+            © Es Tebu Ceria - All rights reserved
           </p>
         </div>
       </div>
